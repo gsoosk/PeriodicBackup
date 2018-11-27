@@ -5,8 +5,8 @@ You can set a period time in this shell script which it's getting backup from yo
 
 ## How to run ? 
 
-``` chmod periodicBackup.sh```
-```./periodicBackup.sh```
+``` chmod PeriodicBackup.sh
+./PeriodicBackup.sh```
 
 ## Help : 
 If you want know more about this shell script, just run it. There is a menu which have a complete help description.
